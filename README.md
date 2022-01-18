@@ -5021,7 +5021,7 @@ _Libraries for data batch- and stream-processing, workflow automation, job sched
 - [GitHub](https://github.com/zenml-io/zenml) (👨‍💻 23 · 🔀 93 · 📋 56 - 16% open · ⏱️ 13.01.2022):
 
 	```
-	git clone https://github.com/maiot-io/zenml
+	git clone https://github.com/zenml-io/zenml
 	```
 - [PyPi](https://pypi.org/project/zenml) (📥 570 / month · ⏱️ 13.01.2022):
 	```
